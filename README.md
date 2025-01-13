@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### Skills:
 Backend Development | Database Management | Front-End Development | Web Applications  | Data Structures & Algorithms | Problem-Solving | Team Collaboration
+---
 
 ## 💻 Tech Stack:  
 <p align="left">
@@ -137,4 +138,16 @@ Backend Development | Database Management | Front-End Development | Web Applicat
 
 </p>
 
+---
+### 📊 GitHub Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Queen-Sarah21&show_icons=true&locale=en&layout=compact" alt="queensarah" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=queen-sarah21&" alt="queensarah" /></p>
+
+---
+### 🤝 Connect with Me  
+<div> 
+  <a href = "mailto:anumusarah@yahoo.com"><img src="https://img.shields.io/badge/-yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/queen-sarah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
