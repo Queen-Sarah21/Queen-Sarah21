@@ -91,11 +91,6 @@ Backend Development | Database Management | Front-End Development | Web Applicat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="40" height="40"/> 
 </a>
 
-<!-- Ajax -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="ajax" width="40" height="40"/> 
-</a>
-
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
