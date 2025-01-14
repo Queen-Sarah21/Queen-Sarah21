@@ -137,7 +137,7 @@ Backend Development | Database Management | Front-End Development | Web Applicat
 ### 📊 GitHub Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Queen-Sarah21&show_icons=true&locale=en&layout=compact" alt="queensarah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Queen-Sarah21" alt="queensarah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Queen-Sarah21" alt="queensarah" /></p>
 
 ---
 ### 🤝 Connect with Me  
