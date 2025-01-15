@@ -141,8 +141,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Queen-Sarah21&show_icons=true&locale=en&layout=compact" alt="queensarah" /></p>
 </div>
 
----
-
 ### 🤝 Connect with Me  
 <div> 
   <a href = "mailto:anumusarah@yahoo.com"><img src="https://img.shields.io/badge/-yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
