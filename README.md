@@ -134,10 +134,12 @@ Backend Development | Database Management | Front-End Development | Web Applicat
 </p>
 
 ---
+
 ### 📊 GitHub Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Queen-Sarah21&show_icons=true&locale=en&layout=compact" alt="queensarah" /></p>
 
 ---
+
 ### 🤝 Connect with Me  
 <div> 
   <a href = "mailto:anumusarah@yahoo.com"><img src="https://img.shields.io/badge/-yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
