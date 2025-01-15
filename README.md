@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ### Skills:
-<h3> Backend Development | Database Management | Front-End Development | Web Applications  | Data Structures & Algorithms | Problem-Solving | Team Collaboration </h3>
+<h3 align="left"> Backend Development | Database Management | Front-End Development | Web Applications  | Data Structures & Algorithms | Problem-Solving | Team Collaboration </h3>
 ---
 
 ## 💻 Tech Stack:  
